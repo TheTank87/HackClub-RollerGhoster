@@ -19,3 +19,8 @@ Merbl or ROller Ghoster 2000 is my custom marble race made on Onshape. This is m
 This is the finished product that I have created, as you can see it doesn't look very complicated, but the steps needed here were crucial. The guide never said anythign about tracks suddenly rotating upside down when sweeping a composite curve, so I devised a method that required multiple track sketches at correct angles and different composite curves so that tracks stay upright. 
 
 <img width="549" height="538" alt="Screenshot 2026-10-19 at 9 16 41 AM" src="https://github.com/user-attachments/assets/b6faec76-68e5-4612-8fb3-3a924f014010" />
+
+# Parts needed
+
+Check BOM.csv
+I only need one part custom made by craftcloud.
