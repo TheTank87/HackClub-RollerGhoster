@@ -15,6 +15,11 @@ Merbl or ROller Ghoster 2000 is my custom marble race made on Onshape. This is m
 * Tracks
 * A finishing marble catcher
 
+# BOM
+|Item|Qty|Vendor|Unit Price|Total Cost|Links|
+|-----------------|---|------|----------|----------|-----|
+|The Roller Ghoster 2000|1|CraftCloud|$24.02|$24.02|[Link](https://craftcloud3d.com/en/upload)|
+
 # The model
 This is the finished product that I have created, as you can see it doesn't look very complicated, but the steps needed here were crucial. The guide never said anythign about tracks suddenly rotating upside down when sweeping a composite curve, so I devised a method that required multiple track sketches at correct angles and different composite curves so that tracks stay upright. 
 
