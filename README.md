@@ -25,6 +25,8 @@ This is the finished product that I have created, as you can see it doesn't look
 
 <img width="549" height="538" alt="Screenshot 2026-10-19 at 9 16 41 AM" src="https://github.com/user-attachments/assets/b6faec76-68e5-4612-8fb3-3a924f014010" />
 
+I started by learning how to sweep sketches I made and then learned to how to angle them. Turns out, angling planes were crucial to building correct oriented runways, because sometimes sweeping a whole composite curve will result in 180 degrees rotation. This was undesirable for open topped runways. So I had to meticulously angle and construct planes that I can then use to create sketche lines to sweep my runway sketch over. 
+
 # Parts needed
 
 Check BOM.csv
