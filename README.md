@@ -7,7 +7,7 @@ This is week 2 of my mechanical design for Hackclub Halflife. This week I will b
 
 # What is it
 
-Merbl or ROller Ghoster 2000 is my custom marble race made on Onshape. This is my first time dealing with more complex shapes on Onshape so don't expect something from another dimension, but do expect something that works. I made this project for the week2 of the half life event.
+Merbl or ROller Ghoster 2000 is my custom marble race made on Onshape. This is my first time dealing with more complex shapes on Onshape so don't expect something from another dimension, but do expect something that works. I made this project for the week2 of the half life event. It is has a base of 420 mm x 420 mm and is about 451 mm tall. It has a track radius of 27 mm so any marble balls under 20 mm should roll smoothly through the runway.
 
 # Onshape Access
 [Link](https://cad.onshape.com/documents/b54b31f6c7760d1f13471245/w/47565a699438bf018c32069d/e/dce2f537836b0c35d8c31d1d?renderMode=0&uiState=6b05f745a38cba7ac62c5ada)
@@ -22,7 +22,7 @@ Merbl or ROller Ghoster 2000 is my custom marble race made on Onshape. This is m
 |Item|Qty|Vendor|Unit Price|Total Cost|Links|
 |-----------------|---|------|----------|----------|-----|
 |The Roller Ghoster 2000|1|CraftCloud|$860.29|$860.29|[Link](https://craftcloud3d.com/en/upload)|
-|14 mm marbles|1|Amazon|$6.00|$6.00|Link(https://www.amazon.com/Sukh-100PCS-Glass-Marbles-Collection/dp/B0C8JB1KTP/ref=sr_1_5?crid=33MMXZAZN6WKQ&dib=eyJ2IjoiMSJ9.hIE9iHa4J5iSzYQhLfZGgMwl6YAo3CkTa61ftkoQCY2Ec8oxNLYUIQ9hdQje0PUH74XaJCP5w57HYH1qbRFaD03TznwMikgmnACYjwmjLUNTKF0qzpumVpQ9yHg2ZVsU9ozucGraaS4VBVknQOX9S8AKvwOFrFULjmSGaHmAm6Bp8hqNanjkxmPIecT35PEzddDI2meTQ1491-FxxRXI8W8hqTcuHPVeW9OwKMtPDAGg0wqVvxRRjl2kCjTvTMay6jQQRYJuRUmKbjnV17IFpozA3G3V2TT6dr6fEsAWudA._PuR-9JRHPKGQex_BaN_KIcjuLMwkiPcCKT2olr7pws&dib_tag=se&keywords=14%2Bmm%2Bmarble&qid=1795543577&sprefix=14%2Bmm%2Bmarbl%2Caps%2C177&sr=8-5&th=1)|
+|14 mm marbles|1|Amazon|$6.00|$6.00|[Link](https://www.amazon.com/Sukh-100PCS-Glass-Marbles-Collection/dp/B0C8JB1KTP/ref=sr_1_5?crid=33MMXZAZN6WKQ&dib=eyJ2IjoiMSJ9.hIE9iHa4J5iSzYQhLfZGgMwl6YAo3CkTa61ftkoQCY2Ec8oxNLYUIQ9hdQje0PUH74XaJCP5w57HYH1qbRFaD03TznwMikgmnACYjwmjLUNTKF0qzpumVpQ9yHg2ZVsU9ozucGraaS4VBVknQOX9S8AKvwOFrFULjmSGaHmAm6Bp8hqNanjkxmPIecT35PEzddDI2meTQ1491-FxxRXI8W8hqTcuHPVeW9OwKMtPDAGg0wqVvxRRjl2kCjTvTMay6jQQRYJuRUmKbjnV17IFpozA3G3V2TT6dr6fEsAWudA._PuR-9JRHPKGQex_BaN_KIcjuLMwkiPcCKT2olr7pws&dib_tag=se&keywords=14%2Bmm%2Bmarble&qid=1795543577&sprefix=14%2Bmm%2Bmarbl%2Caps%2C177&sr=8-5&th=1)|
 
 # The model
 This is the finished product that I have created, as you can see it doesn't look very complicated, but the steps needed here were crucial. The guide never said anythign about tracks suddenly rotating upside down when sweeping a composite curve, so I devised a method that required multiple track sketches at correct angles and different composite curves so that tracks stay upright. 
