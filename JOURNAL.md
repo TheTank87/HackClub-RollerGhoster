@@ -26,6 +26,8 @@
 
 It's my first time working with Onshape, so I had to create a new account. Then it took a while to learn all the viewport navigations via Youtube videos. However, I was able to do it. The process of making a sketch and shapes was interesting to point that the actual process of making my first track took less time that the time to learn, because I wanted to know how to make things. I'm also going to make a new document and creating cool shapes as drafts for my runway.
 
+
+
 ![Screenshot 2026-10-14 at 10.44.54 AM](https://halflife.hackclub-assets.com/sessions/ZDAOO2ufQE4izwUEwNePt1JFUHVP4iKp/3298a7c65767a5a2871b223264058b0324159e477072aa455ce3867a881a63ac.png)
 
 ![Screenshot 2026-10-14 at 10.47.07 AM](https://halflife.hackclub-assets.com/sessions/ZDAOO2ufQE4izwUEwNePt1JFUHVP4iKp/eb35171e8d52811c0e577564e7695a1ab3236e9114fc68e1811ea94aa6e2e5eb.png)
