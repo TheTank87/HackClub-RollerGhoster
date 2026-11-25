@@ -1,3 +1,4 @@
+<img width="997" height="573" alt="Screenshot 2026-11-25 at 12 57 45 PM" src="https://github.com/user-attachments/assets/9f1d6ed8-37f3-4a59-b8fc-78cb71b8bc80" />
 <img width="1280" height="720" alt="rollerghosternew" src="https://github.com/user-attachments/assets/bc16a441-1994-44ef-98bd-08f99fd97aa4" />
 
 
@@ -31,5 +32,9 @@ This is the finished product that I have created, as you can see it doesn't look
 
 I started by learning how to sweep sketches I made and then learned to how to angle them. Turns out, angling planes were crucial to building correct oriented runways, because sometimes sweeping a whole composite curve will result in 180 degrees rotation. This was undesirable for open topped runways. So I had to meticulously angle and construct planes that I can then use to create sketche lines to sweep my runway sketch over. 
 
-However, during project review, I realized that my original design did not take prices or practicality in mind. It turns out that I didn't use good practices of using hollow structures and a thin base to save on filament, so I had to redesign the whole thing.
+However, during project review, I realized that my original design did not take prices or practicality in mind. It turns out that I didn't use good practices of using hollow structures and a thin base to save on filament, so I had to redesign the whole thing. I created a new design which had a base that was 200mm by 200mm and was about 2 mm thick. Instead of using composite curves, I decided to use slanted runways and implemented a new feature. Extrude removed pieces that created smooth entry ways for the marble to go through. I also designed the new tracks to have a radius of 7.5 mm so that marbles would fit. This time too, I used hollow cylinders as the support beams to reduce filament requirements. I also added a ramp and curved walls to guide the ball through the bottom.
+
+
+<img width="997" height="573" alt="Screenshot 2026-11-25 at 12 49 36 PM" src="https://github.com/user-attachments/assets/32ed0a5c-1783-4fbb-ad6b-328cce2660ad" />
+
 
