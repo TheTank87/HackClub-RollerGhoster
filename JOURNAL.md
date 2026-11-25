@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv5cxn5z0i2801n0l789kkzn)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Making a Merbl marble race that includes cool slides and looks cool.  Onshape Link: https://cad.onshape.com/documents/b54b31f6c7760d1f13471245/w/47565a699438bf018c32069d/e/dce2f537836b0c35d8c31d1d?renderMode=0&uiState=6adf8f05244ddd188f8b4d42
+> Making a Merbl marble race that includes cool slides and looks cool.  Onshape Link: https://cad.onshape.com/documents/4e46ab6feff5e5184c36e316/w/cd92163df1963c3dffb88ec4/e/4b9af14a7a3ad350c7ffd1de?renderMode=0&uiState=6b075260870c4ef04fad60e1
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
