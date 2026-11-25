@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 12h | 3 |
+| Week 2 | Tier 1 | 10h | 3 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 
 ### 2026-10-14: It's my first time working with Onshape, so I had to create a new account. Then it took a while to learn all the viewport navigations via Youtube videos. However, I was able to do it. The process of m
 
-**5h**
+**3h**
 
 It's my first time working with Onshape, so I had to create a new account. Then it took a while to learn all the viewport navigations via Youtube videos. However, I was able to do it. The process of making a sketch and shapes was interesting to point that the actual process of making my first track took less time that the time to learn, because I wanted to know how to make things. I'm also going to make a new document and creating cool shapes as drafts for my runway.
 
