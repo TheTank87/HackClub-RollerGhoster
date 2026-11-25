@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 20h | 3 |
+| Week 2 | Tier 1 | 15h | 3 |
 
 ## Contents
 
@@ -40,7 +40,7 @@ It's my first time working with Onshape, so I had to create a new account. Then 
 
 ### 2026-10-16: I had created my first document, but now I had to create a new document, because I somehow glitched the system by creating too large of a fillet and I couldn’t remove it. So I had to spend some time f
 
-**10h**
+**5h**
 
 I had created my first document, but now I had to create a new document, because I somehow glitched the system by creating too large of a fillet and I couldn’t remove it. So I had to spend some time fixing the problem. It turns out all I had to do was select then DRAG. The guide wasn't clear on that, but I guess that's a part of the problem solving process :p. But the good news is that I managed to finally create my fillet. I continued on to make the fillet the correct geometry as in radius and this time I also managed to take more screenshots of the process. I will now continue on to making lines and circles, I am half way there to creating my actual runway.
 
