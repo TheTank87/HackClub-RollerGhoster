@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 15h | 3 |
+| Week 2 | Tier 1 | 12h | 3 |
 
 ## Contents
 
@@ -66,7 +66,7 @@ I had created my first document, but now I had to create a new document, because
 
 ### 2026-10-18: This is it, the final product. I practiced making curves and how to create composite curves and angle sketches to create correct oriented tracks. I also added pillars to keep the tracks up for more st
 
-**5h**
+**2h**
 
 This is it, the final product. I practiced making curves and how to create composite curves and angle sketches to create correct oriented tracks. I also added pillars to keep the tracks up for more stability as in standard practices, people often add these structural supports to make printing easier.
 
