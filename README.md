@@ -1,4 +1,3 @@
-<img width="997" height="573" alt="Screenshot 2026-11-25 at 12 57 45 PM" src="https://github.com/user-attachments/assets/9f1d6ed8-37f3-4a59-b8fc-78cb71b8bc80" />
 <img width="1280" height="720" alt="rollerghosternew" src="https://github.com/user-attachments/assets/bc16a441-1994-44ef-98bd-08f99fd97aa4" />
 
 
