@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 10h | 3 |
+| Week 2 | Tier 1 | 12h | 3 |
 
 ## Contents
 
@@ -66,9 +66,11 @@ I had created my first document, but now I had to create a new document, because
 
 ### 2026-10-18: This is it, the final product. I practiced making curves and how to create composite curves and angle sketches to create correct oriented tracks. I also added pillars to keep the tracks up for more st
 
-**2h**
+**4h**
 
 This is it, the final product. I practiced making curves and how to create composite curves and angle sketches to create correct oriented tracks. I also added pillars to keep the tracks up for more stability as in standard practices, people often add these structural supports to make printing easier.
+
+However, I then noticed that the model used complete cylinders and the supports were insufficient, making the whole print very expensive.  I then had to resort to redesigning the entire thing that I linked to the repo. The new design is much simpler, but is more practical. It uses hollow cylinders to make filament usage lower, and uses a modular setup, so each piece is printed separately making the process cheaper and faster. I used a new technique using the extrude remove tool to create smooth holes to create seemless runways going into each other.
 
 ![Screenshot 2026-10-16 170025](https://halflife.hackclub-assets.com/sessions/ZDAOO2ufQE4izwUEwNePt1JFUHVP4iKp/9c8abb627e49dde2d42886be74a5704dddc0c64e402f3d28576cf5bd517a7488.png)
 
@@ -79,3 +81,5 @@ This is it, the final product. I practiced making curves and how to create compo
 ![Screenshot 2026-10-18 125203](https://halflife.hackclub-assets.com/sessions/ZDAOO2ufQE4izwUEwNePt1JFUHVP4iKp/1e57acc80844a4535cf9540a8fdcf0c09c6d7f8c63fbc4944c93d37543ab917e.png)
 
 ![Screenshot 2026-10-18 124747](https://halflife.hackclub-assets.com/sessions/ZDAOO2ufQE4izwUEwNePt1JFUHVP4iKp/bb451a9ea8839384e590435467c5966fb6ff99d2fe6554da4da1c33bbb5800a2.png)
+
+![Screenshot 2026-11-25 at 7.08.30 PM](https://halflife.hackclub-assets.com/sessions/ZDAOO2ufQE4izwUEwNePt1JFUHVP4iKp/cf87202dc7b55dbd01d2b4e3aa3c7d50f7568dda4a3bda1501024034f4257a4e.png)
