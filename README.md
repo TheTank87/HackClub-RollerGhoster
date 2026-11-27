@@ -37,6 +37,8 @@ I started by learning how to sweep sketches I made and then learned to how to an
 
 However, during project review, I realized that my original design did not take prices or practicality in mind. It turns out that I didn't use good practices of using hollow structures and a thin base to save on filament, so I had to redesign the whole thing. I created a new design which had a base that was 200mm by 200mm and was about 2 mm thick. Instead of using composite curves, I decided to use slanted runways and implemented a new feature. Extrude removed pieces that created smooth entry ways for the marble to go through. I also designed the new tracks to have a radius of 7.5 mm so that marbles would fit. This time too, I used hollow cylinders as the support beams to reduce filament requirements. I also added a ramp and curved walls to guide the ball through the bottom.
 
+In the CAD folder, you'll also see the bambu slice of the model. This marble run is intended to be printed out into component parts and then be super glued together. The bambu slice file contains the correct orientation and placement of the component parts, so all you have to do is add the supports and start printing. Due to the the most complicated part being the runway itself. It might take about 5 hours very rough estimate in optimal conditions.
+
 
 <img width="997" height="573" alt="Screenshot 2026-11-25 at 12 49 36 PM" src="https://github.com/user-attachments/assets/32ed0a5c-1783-4fbb-ad6b-328cce2660ad" />
 
